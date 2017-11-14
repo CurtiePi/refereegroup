@@ -4,6 +4,7 @@
   "description": "App to keep track of referees and their availabilty",
   "main": "index.js",
   "dependencies": {
+    "argon2": "^0.16.2",
     "express": "^4.16.2"
   },
   "devDependencies": {},
